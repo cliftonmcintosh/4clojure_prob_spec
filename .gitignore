@@ -10,4 +10,4 @@ pom.xml
 .lein-plugins
 .lein-repl-history
 .idea
-prob_spec.iml
+*.iml
